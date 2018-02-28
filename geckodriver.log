@@ -1,0 +1,1526 @@
+1515383895030	geckodriver	INFO	Listening on 127.0.0.1:5240
+1515383897163	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515383897995	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515383899013	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515383904883	Marionette	INFO	Listening on port 5246
+1515383905307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515383905369	Marionette	DEBUG	Register listener.js for window 4294967297
+1515383905439	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515383906087	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515383906087	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515383908109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515383912456	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515383924776	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+LLs igd10umd32 v= and igd10iumd32 v=
+1515383918835	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[592] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[592] WARNING: Unable to create pipe named "5116.0.2020295249\1811210678" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFFB,name=???) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3B0018,name=PGPU::Msg_InitCrashReporter) Closed channel: cannot send/recv
+
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Child 9672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+1515383932252	Marionette	INFO	Listening on port 5299
+1515383932814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515383932879	Marionette	DEBUG	Register listener.js for window 4294967297
+1515383932954	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515383933316	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515383933316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+1515383946296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515383946492	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+1515384019368	Marionette	INFO	Listening on port 5376
+1515384020713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515384020976	Marionette	DEBUG	Register listener.js for window 4294967297
+1515384023989	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515384024301	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515384024302	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515384049490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515384049808	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[8956] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8956] WARNING: Unable to create pipe named "6156.0.1291189917\760418317" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFFB,name=???) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3B0018,name=PGPU::Msg_InitCrashReporter) Channel error: cannot send/recv
+
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515384193646	Marionette	INFO	Listening on port 5507
+1515384193809	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Could not get a DXGI adapter
+1515384196442	Marionette	DEBUG	Register listener.js for window 2147483649
+1515384197255	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515384202647	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515384202648	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515384231244	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515384231415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+console.error: 
+[Parent 6156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:343:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:281:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:327:5
+runDelayed/this._timeoutID<@resource:///modules/sessionstore/SessionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[Parent 6156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"z:/build/build/src/toolkit/components/places/Database.cpp","lineNumber":518,"stack":["jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js:addBlocker:159","resource://gre/modules/PlacesUtils.jsm:null:2027","resource://gre/modules/XPCOMUtils.jsm:get:199","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:138","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG__onFirstWindowLoaded:967","jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js:BG_observe:338","chrome://browser/content/browser.js:_delayedStartup:1779"]}] Barrier: profile-before-change
+1515391784435	geckodriver	INFO	Listening on 127.0.0.1:6504
+1515391786195	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515391791537	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515391795140	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 7240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515391822633	Marionette	INFO	Listening on port 6510
+1515391823071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515391823153	Marionette	DEBUG	Register listener.js for window 6442450945
+1515391823286	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515391823786	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515391823786	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515391826595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515391826835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 5612] WARNING: pipe error: 109: file z:/build/build/1515391893041	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515391894818	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515391895947	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 11860] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9620] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515391900663	Marionette	INFO	Listening on port 6614
+1515391901034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515391901109	Marionette	DEBUG	Register listener.js for window 4294967297
+1515391901183	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515391901276	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515391901276	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515391903246	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515391903463	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to mi1515391905847	geckodriver::marionette	INFO	St[Child 7284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11876] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515391916996	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 9204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515391929596	Marionette	INFO	Listening on port 6664
+1515391930795	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515391931239	Marionette	DEBUG	Register listener.js for window 6442450945
+1515391931338	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515391931411	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515391931411	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515391933193	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515391933387	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515391949254	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 9672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11148] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515393396598	geckodriver	INFO	Listening on 127.0.0.1:7596
+1515393398674	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515393401524	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393403741	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393419935	Marionette	INFO	Listening on port 7602
+1515393420950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515393421046	Marionette	DEBUG	Register listener.js for window 6442450945
+1515393421234	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515393421309	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515393421309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515393423221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515393423335	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 10688] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8320] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10844] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ce://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393434291	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+[Child 6076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515393457374	Marionette	INFO	Listening on port 7671
+1515393458428	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+1515393461194	Marionette	DEBUG	Register listener.js for window 4294967297
+1515393461483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515393461546	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515393461547	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515393466725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515393467283	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+[Child 5648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515393507309	geckodriver	INFO	Listening on 127.0.0.1:7767
+1515393509392	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515393510653	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393511908	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393517151	Marionette	INFO	Listening on port 7773
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393517436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515393517504	Marionette	DEBUG	Register listener.js for window 4294967297
+1515393517552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515393517783	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515393517784	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515393520245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515393520491	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515393755480	geckodriver	INFO	Listening on 127.0.0.1:7882
+1515393757397	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515393758213	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393759267	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 7672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 6176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6176] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515393763433	Marionette	INFO	Listening on port 7888
+1515393763770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515393763834	Marionette	DEBUG	Register listener.js for window 4294967297
+1515393763895	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515393763982	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515393763983	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515393765766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515393766081	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515393767656	geckodriver	INFO	Listening on 127.0.0.1:7945
+1515393769678	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515393770847	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393771847	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393776039	Marionette	INFO	Listening on port 7951
+[Child 11808] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515393776295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515393776391	Marionette	DEBUG	Register listener.js for window 6442450945
+1515393776488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515393776591	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515393776592	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515393778427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515393778494	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515393960585	geckodriver	INFO	Listening on 127.0.0.1:8034
+1515393962430	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515393964750	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393965689	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 4476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515393969554	Marionette	INFO	Listening on port 8040
+1515393969932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515393969997	Marionette	DEBUG	Register listener.js for window 4294967297
+1515393970060	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515393970147	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515393970148	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515393971852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515393971928	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 2684] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2684] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11068] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393981161	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393993049	Marionette	INFO	Listening on port 8091
+1515393993269	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393996361	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515393996513	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515393996737	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515393996737	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515393999683	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515394000270	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 5632] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11912] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6848] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6848] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10804] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515394149358	geckodriver	INFO	Listening on 127.0.0.1:8215
+1515394151187	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1515394153165	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515394154227	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 9692] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515394158691	Marionette	INFO	Listening on port 8221
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515394158974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515394159040	Marionette	DEBUG	Register listener.js for window 4294967297
+1515394159110	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515394159657	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515394159657	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515394161704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515394161768	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[Child 5092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6852] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515395816298	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515395816318	geckodriver	INFO	Listening on 127.0.0.1:1108
+1515395818474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.rOWeVRElantb"
+1515395935566	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515395935584	geckodriver	INFO	Listening on 127.0.0.1:1201
+1515395937689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.Q2sOPXNQZ2Bk"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515395939410	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 1324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515395948811	Marionette	INFO	Listening on port 1208
+1515395949396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515395949488	Marionette	DEBUG	Register listener.js for window 4294967297
+1515395949929	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515395951323	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515395951331	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515395954854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515395955045	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515396147405	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515396147418	geckodriver	INFO	Listening on 127.0.0.1:1330
+1515396149310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.MYgOsPB6t0iD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396152025	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 4432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515396166669	Marionette	INFO	Listening on port 1336
+1515396167938	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396168823	Marionette	DEBUG	Register listener.js for window 4294967297
+1515396168911	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515396169309	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515396169309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515396169873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515396169946	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396174509	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515396174522	geckodriver	INFO	Listening on 127.0.0.1:1425
+1515396176584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.lXg5ESlR9EtX"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396178926	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 6072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396183917	Marionette	INFO	Listening on port 1431
+1515396184203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515396184304	Marionette	DEBUG	Register listener.js for window 4294967297
+1515396184424	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515396184542	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515396184542	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515396184819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515396184886	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515396272519	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515396272532	geckodriver	INFO	Listening on 127.0.0.1:1517
+1515396274456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.ccLQona7Nkci"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396276739	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396281431	Marionette	INFO	Listening on port 1523
+1515396281878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515396281970	Marionette	DEBUG	Register listener.js for window 4294967297
+1515396282093	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515396282298	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515396282298	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515396283069	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515396283961	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1460_24885_21086_17001_20930&req=2&csor=3&pwd=yo&cb=jQuery1102020454869227458194_1515396282875&_=1515396282879, line 1: TypeError: jQuery1102020454869227458194_1515396282875 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1460_24885_21086_17001_20930&req=2&csor=2&pwd=y&cb=jQuery1102020454869227458194_1515396282875&_=1515396282878, line 1: TypeError: jQuery1102020454869227458194_1515396282875 is not a function
+1515396287725	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515396287737	geckodriver	INFO	Listening on 127.0.0.1:1599
+1515396289783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.fp56aRG9I0SD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396292088	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 3728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396296342	Marionette	INFO	Listening on port 1605
+1515396297321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515396297445	Marionette	DEBUG	Register listener.js for window 4294967297
+1515396297553	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515396297718	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515396297718	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515396298106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515396298233	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=h&json=1&p=3&sid=1464_21119_17001&req=2&csor=1&cb=jQuery110206344647010424957_1515396297921&_=1515396297923, line 1: TypeError: jQuery110206344647010424957_1515396297921 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=ha&json=1&p=3&sid=1464_21119_17001&req=2&csor=2&pwd=h&cb=jQuery110206344647010424957_1515396297921&_=1515396297924, line 1: TypeError: jQuery110206344647010424957_1515396297921 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hah&json=1&p=3&sid=1464_21119_17001&req=2&csor=3&pwd=ha&cb=jQuery110206344647010424957_1515396297921&_=1515396297925, line 1: TypeError: jQuery110206344647010424957_1515396297921 is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515396302408	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515396302419	geckodriver	INFO	Listening on 127.0.0.1:1673
+1515396304485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.uAY7cP9QrRxQ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396306849	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 5292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396310775	Marionette	INFO	Listening on port 1679
+1515396311867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515396311957	Marionette	DEBUG	Register listener.js for window 4294967297
+1515396311995	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515396312084	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515396312085	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515396312418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515396312473	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515396316155	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515396316168	geckodriver	INFO	Listening on 127.0.0.1:1757
+1515396318218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.JvFd0SYq9rz5"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396320879	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 5060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515396325487	Marionette	INFO	Listening on port 1764
+1515396325760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515396325878	Marionette	DEBUG	Register listener.js for window 4294967297
+1515396325921	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515396326096	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515396326096	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515396326472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515396326564	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515458119839	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515458119919	geckodriver	INFO	Listening on 127.0.0.1:4794
+1515458121747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.ETL37TYd2Lbk"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515458134277	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515458164238	Marionette	INFO	Listening on port 4801
+1515458164678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515458164778	Marionette	DEBUG	Register listener.js for window 4294967297
+1515458165898	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515458168595	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515458168596	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515458170225	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515458170446	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515458174724	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515458174735	geckodriver	INFO	Listening on 127.0.0.1:4914
+1515458176983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.JpVWKQzs4LQK"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515458179489	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 3160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515458185153	Marionette	INFO	Listening on port 4920
+1515458185479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515458185586	Marionette	DEBUG	Register listener.js for window 4294967297
+1515458185770	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515458186286	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515458186286	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515458186730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515458186986	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=ha&json=1&p=3&sid=1443_13290_21118_17001_22160&req=2&csor=2&pwd=h&cb=jQuery1102026702274016489724_1515458186562&_=1515458186565, line 1: TypeError: jQuery1102026702274016489724_1515458186562 is not a function
+1515458191305	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515458191319	geckodriver	INFO	Listening on 127.0.0.1:4983
+1515458193397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.SBC5PesGbuMI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515458195423	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 1148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515458200552	Marionette	INFO	Listening on port 4989
+1515458200925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515458201036	Marionette	DEBUG	Register listener.js for window 4294967297
+1515458201067	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515458201667	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515458201667	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515458202031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515458202093	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515458206329	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515458206343	geckodriver	INFO	Listening on 127.0.0.1:5064
+1515458208392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.JlDTJdiCyCXi"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515458210733	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 7144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515458215672	Marionette	INFO	Listening on port 5071
+1515458215913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515458216038	Marionette	DEBUG	Register listener.js for window 4294967297
+1515458216120	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515458216204	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515458216205	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515458216700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515458216857	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515461240628	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515461240666	geckodriver	INFO	Listening on 127.0.0.1:5360
+1515461242717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.41y9RCbN71bi"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515461246062	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 6944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515461254302	Marionette	INFO	Listening on port 5367
+1515461254643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515461254737	Marionette	DEBUG	Register listener.js for window 4294967297
+1515461254991	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515461256461	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515461256461	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515461257267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515461257350	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515461261503	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515461261528	geckodriver	INFO	Listening on 127.0.0.1:5445
+1515461263658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.Zptsygg6Z0tO"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515461266688	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[Parent 6792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+1515461272204	Marionette	INFO	Listening on port 5451
+1515461272626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515461272757	Marionette	DEBUG	Register listener.js for window 4294967297
+1515461272784	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515461272866	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515461272866	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515461273252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515461273331	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=h&json=1&p=3&sid=1434_21088_22075&req=2&csor=1&cb=jQuery1102014971180043943522_1515461273104&_=1515461273106, line 1: TypeError: jQuery1102014971180043943522_1515461273104 is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515461277336	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515461277349	geckodriver	INFO	Listening on 127.0.0.1:5522
+1515461279433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.tBIMLkrvum2F"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515461281982	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 7232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515461286982	Marionette	INFO	Listening on port 5528
+1515461287060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515461287158	Marionette	DEBUG	Register listener.js for window 4294967297
+1515461287207	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515461287452	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515461287455	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515461287930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515461287989	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515461292223	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515461292237	geckodriver	INFO	Listening on 127.0.0.1:5602
+1515461294318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.P1jOG1y2CpK3"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515461296917	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 7080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515461304515	Marionette	INFO	Listening on port 5608
+1515461304817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515461304963	Marionette	DEBUG	Register listener.js for window 4294967297
+1515461305021	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515461305261	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515461305262	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515461305758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515461305907	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515466316296	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515466316488	geckodriver	INFO	Listening on 127.0.0.1:49421
+1515466319663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.FcvNyoud8vOy"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466337857	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515466367700	Marionette	INFO	Listening on port 49430
+1515466368874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515466369023	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466370429	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515466372018	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515466372018	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515466380145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515466380399	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515466388835	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515466388872	geckodriver	INFO	Listening on 127.0.0.1:49549
+1515466390541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.zdnt40VK7CfR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466398790	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 8052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515466408944	Marionette	INFO	Listening on port 49555
+1515466410857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515466410953	Marionette	DEBUG	Register listener.js for window 4294967297
+1515466411309	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515466411462	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515466411462	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515466412216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515466412318	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466417031	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515466417043	geckodriver	INFO	Listening on 127.0.0.1:49644
+1515466419137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.Izy8h3WusxSz"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466423033	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 7680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515466429175	Marionette	INFO	Listening on port 49654
+1515466429398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515466429598	Marionette	DEBUG	Register listener.js for window 4294967297
+1515466429875	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515466430331	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515466430331	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515466430747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515466430823	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466436206	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515466436225	geckodriver	INFO	Listening on 127.0.0.1:49738
+1515466437632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.JmbBoReMLHuq"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466439906	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 6200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466446203	Marionette	INFO	Listening on port 49748
+1515466446665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515466446783	Marionette	DEBUG	Register listener.js for window 4294967297
+1515466446851	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515466447225	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515466447226	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515466447837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515466447999	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515466771483	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515466771503	geckodriver	INFO	Listening on 127.0.0.1:49841
+1515466773371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.7CL5MDXVDIGk"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466776868	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 9800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466782084	Marionette	INFO	Listening on port 49847
+1515466783051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515466783142	Marionette	DEBUG	Register listener.js for window 4294967297
+1515466783171	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515466783243	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515466783243	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515466783563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515466783643	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515466787984	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515466787996	geckodriver	INFO	Listening on 127.0.0.1:49928
+1515466790375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.ceYnJHU25AYT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466792777	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 6800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466799073	Marionette	INFO	Listening on port 49934
+1515466800156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515466800284	Marionette	DEBUG	Register listener.js for window 4294967297
+1515466800317	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515466800406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515466800406	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515466800733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515466800845	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515466804748	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515466804798	geckodriver	INFO	Listening on 127.0.0.1:50002
+1515466806924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.8OsdnVYuQH0f"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466811057	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 10204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466815995	Marionette	INFO	Listening on port 50008
+1515466816553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515466816642	Marionette	DEBUG	Register listener.js for window 4294967297
+1515466816798	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515466816878	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515466816878	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515466817225	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515466817289	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515466821300	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515466821312	geckodriver	INFO	Listening on 127.0.0.1:50085
+1515466823417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.UymTBkxm5c6b"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466826093	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515466830985	Marionette	INFO	Listening on port 50091
+1515466831391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515466831490	Marionette	DEBUG	Register listener.js for window 4294967297
+1515466831554	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515466832107	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515466832108	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515466832403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515466832515	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515467242714	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515467242812	geckodriver	INFO	Listening on 127.0.0.1:50174
+1515467244670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.GscixybT6iiL"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515467249396	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 9164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515467262722	Marionette	INFO	Listening on port 50180
+1515467263000	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515467263819	Marionette	DEBUG	Register listener.js for window 4294967297
+1515467263986	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515467265978	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515467265978	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515467266517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515467266589	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1446_21102_17001_22158&req=2&csor=3&pwd=yo&cb=jQuery11020538367606698582_1515467266343&_=1515467266347, line 1: TypeError: jQuery11020538367606698582_1515467266343 is not a function
+1515467270657	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515467270670	geckodriver	INFO	Listening on 127.0.0.1:50266
+1515467272745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.nzYRGj52mlVS"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515467275157	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 6096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515467280721	Marionette	INFO	Listening on port 50272
+1515467280904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515467281021	Marionette	DEBUG	Register listener.js for window 4294967297
+1515467281092	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515467281652	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515467281652	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515467282191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515467282426	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515467287270	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515467287282	geckodriver	INFO	Listening on 127.0.0.1:50346
+1515467289338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.N4nTjSLflcyR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515467292041	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515467296930	Marionette	INFO	Listening on port 50354
+1515467297285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515467297375	Marionette	DEBUG	Register listener.js for window 4294967297
+1515467297434	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515467297798	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515467297798	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515467298475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515467298759	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515467302784	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515467302796	geckodriver	INFO	Listening on 127.0.0.1:50427
+1515467304887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.8xTiJuL2IT32"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515467308053	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515467312663	Marionette	INFO	Listening on port 50433
+1515467313149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515467313233	Marionette	DEBUG	Register listener.js for window 4294967297
+1515467313266	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515467313334	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515467313397	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515467313779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515467313927	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515468439117	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515468439158	geckodriver	INFO	Listening on 127.0.0.1:38362
+1515468441157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.yoNXtuulotvI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468475243	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468523669	Marionette	INFO	Listening on port 38369
+1515468525424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515468525528	Marionette	DEBUG	Register listener.js for window 4294967297
+1515468526158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515468527010	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515468527011	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515468527948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515468528107	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515468535344	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515468535382	geckodriver	INFO	Listening on 127.0.0.1:38655
+1515468537473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.PJ32iBYg6ITX"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468542809	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[Child 10184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1-]: Could not get a DXGI adapter
+1515468551656	Marionette	INFO	Listening on port 38661
+1515468552868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515468552990	Marionette	DEBUG	Register listener.js for window 4294967297
+1515468553154	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515468553885	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515468553886	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515468554450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515468554513	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515468560878	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515468560892	geckodriver	INFO	Listening on 127.0.0.1:38737
+1515468562149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.tEJyGKoJIH1x"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468565240	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 9940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468571016	Marionette	INFO	Listening on port 38743
+1515468572674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515468572818	Marionette	DEBUG	Register listener.js for window 4294967297
+1515468573039	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515468573727	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515468573727	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515468574338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515468574755	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=25575_1445_21109_17001_20718&req=2&csor=2&pwd=y&cb=jQuery110209841877940757484_1515468574078&_=1515468574081, line 1: TypeError: jQuery110209841877940757484_1515468574078 is not a function
+1515468579435	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515468579473	geckodriver	INFO	Listening on 127.0.0.1:38821
+1515468581499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.z84yZa0W5ZQL"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468584898	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 8936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468590305	Marionette	INFO	Listening on port 38827
+1515468591511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515468591677	Marionette	DEBUG	Register listener.js for window 4294967297
+1515468591803	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515468591950	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515468591951	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515468592569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515468592646	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515468889505	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515468889520	geckodriver	INFO	Listening on 127.0.0.1:45927
+1515468891427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.mPd6wY6A9scl"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468895361	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential[ GdFrXi1v]e:r  Pvoetresnitoina lm idsrmiavtecrh  viegrnsoiroend  mdiusem attoc hm iisgsnionrge dD LdLuse  itgod 1m0iusmsdi3n2g  vD=L Lasn di gidg1d01u0midumd32 v=3
+2 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468918396	Marionette	INFO	Listening on port 45933
+1515468919467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515468919756	Marionette	DEBUG	Register listener.js for window 4294967297
+1515468921353	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515468921711	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515468921712	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515468923003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515468923247	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1427_21124_17001_20929&req=2&csor=3&pwd=yo&cb=jQuery1102040805619789439407_1515468922494&_=1515468922498, line 1: TypeError: jQuery1102040805619789439407_1515468922494 is not a function
+1515468929650	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515468929669	geckodriver	INFO	Listening on 127.0.0.1:46024
+1515468931714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.UC3WBBMpZ7uh"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468933687	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468940189	Marionette	INFO	Listening on port 46030
+1515468940535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515468940635	Marionette	DEBUG	Register listener.js for window 4294967297
+1515468940806	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515468941165	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515468941165	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515468942905	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515468943151	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515468947318	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515468947330	geckodriver	INFO	Listening on 127.0.0.1:46096
+1515468949419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.Lrcu2OOgsmvo"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468951006	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 3656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468955866	Marionette	INFO	Listening on port 46102
+1515468956116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515468956223	Marionette	DEBUG	Register listener.js for window 4294967297
+1515468956257	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515468956592	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515468956592	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515468957024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515468957210	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515468961768	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515468961805	geckodriver	INFO	Listening on 127.0.0.1:46174
+1515468963808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.ohpzQEbqwrRl"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468966322	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 2736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515468973852	Marionette	INFO	Listening on port 46180
+1515468973882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515468973982	Marionette	DEBUG	Register listener.js for window 4294967297
+1515468974242	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515468974699	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515468974699	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515468975077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515468975163	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515469038986	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515469039001	geckodriver	INFO	Listening on 127.0.0.1:46252
+1515469040790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.lQJ1AuY5d0lq"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469043430	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 9440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469048913	Marionette	INFO	Listening on port 46258
+1515469049376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515469049476	Marionette	DEBUG	Register listener.js for window 4294967297
+1515469049547	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515469049682	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515469049683	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515469050212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515469050309	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515469055001	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515469055082	geckodriver	INFO	Listening on 127.0.0.1:46330
+1515469057286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.FE01RjQzHLu5"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469062602	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 6344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469068079	Marionette	INFO	Listening on port 46336
+1515469068138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515469068233	Marionette	DEBUG	Register listener.js for window 4294967297
+1515469068393	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515469068577	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515469068577	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515469069177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515469069253	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515469073766	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515469073777	geckodriver	INFO	Listening on 127.0.0.1:46409
+1515469075576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.U2gZ47glUm6j"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469079198	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469094429	Marionette	INFO	Listening on port 46415
+1515469094771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515469094888	Marionette	DEBUG	Register listener.js for window 4294967297
+1515469094974	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515469095246	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515469095246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515469095841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515469095940	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515469100922	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515469100933	geckodriver	INFO	Listening on 127.0.0.1:46497
+1515469103006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.cI22veN69w91"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469106348	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469112441	Marionette	INFO	Listening on port 46503
+1515469112675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515469112757	Marionette	DEBUG	Register listener.js for window 4294967297
+1515469112785	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515469113039	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515469113040	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515469113555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515469113645	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1515469772338	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515469772353	geckodriver	INFO	Listening on 127.0.0.1:46603
+1515469774145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.9gL1ok1XBeid"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469777836	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 12148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515469793221	Marionette	INFO	Listening on port 46609
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469794606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515469794752	Marionette	DEBUG	Register listener.js for window 4294967297
+1515469794859	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515469797309	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515469797309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515469797941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515469798012	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515469802846	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515469802860	geckodriver	INFO	Listening on 127.0.0.1:46695
+1515469804933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.31cwENYF2y7z"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469806718	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 11672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469812547	Marionette	INFO	Listening on port 46701
+1515469813022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515469813120	Marionette	DEBUG	Register listener.js for window 4294967297
+1515469813147	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515469813256	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515469813256	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515469813711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515469813871	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515469818185	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515469818196	geckodriver	INFO	Listening on 127.0.0.1:46768
+1515469820265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.I8z4g8mYdG8W"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469821733	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469826598	Marionette	INFO	Listening on port 46774
+1515469826892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515469827036	Marionette	DEBUG	Register listener.js for window 4294967297
+1515469827081	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515469827198	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515469827198	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515469827945	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515469828004	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515469833920	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515469833932	geckodriver	INFO	Listening on 127.0.0.1:46846
+1515469836012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.9jDM4CxoAmlw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515469838724	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 11320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515469844648	Marionette	INFO	Listening on port 46852
+1515469844753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515469844866	Marionette	DEBUG	Register listener.js for window 4294967297
+1515469844904	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515469845018	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515469845019	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515469845447	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515469845731	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515470568615	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515470568635	geckodriver	INFO	Listening on 127.0.0.1:47147
+1515470570290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.BYPutUmB3ZrX"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515470578034	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 4652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515470601433	Marionette	INFO	Listening on port 47154
+1515470602296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515470602421	Marionette	DEBUG	Register listener.js for window 4294967297
+1515470603599	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515470604101	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515470604101	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515470604842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515470604909	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515470611752	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515470611763	geckodriver	INFO	Listening on 127.0.0.1:47252
+1515470614155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.I7GrGAIsapJw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515470626817	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 10820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515470632117	Marionette	INFO	Listening on port 47258
+1515470632714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515470632808	Marionette	DEBUG	Register listener.js for window 4294967297
+1515470632837	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515470632908	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515470632909	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515470633361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515470633523	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515470637699	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515470637716	geckodriver	INFO	Listening on 127.0.0.1:47333
+1515470639726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.lkDuTIgGfABV"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515470641324	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 9196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515470647802	Marionette	INFO	Listening on port 47339
+1515470648152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515470648275	Marionette	DEBUG	Register listener.js for window 4294967297
+1515470648406	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515470648903	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515470648903	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515470649271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515470649472	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515470655853	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515470655872	geckodriver	INFO	Listening on 127.0.0.1:47410
+1515470657995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.q2bzxzz51yy2"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515470663175	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Parent 4364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515470670327	Marionette	INFO	Listening on port 47416
+1515470670954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515470671041	Marionette	DEBUG	Register listener.js for window 4294967297
+1515470671087	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515470671154	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515470671154	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515470671921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515470672035	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1515554013289	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515554013318	geckodriver	INFO	Listening on 127.0.0.1:50352
+1515554015299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.16LTCP20qYOj"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515554033899	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1515554085749	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < observe()@resource:///modules/ContentCrashHandlers.jsm:155
+1515554087150	Marionette	INFO	Listening on port 50359
+[Child 10404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515554087369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515554090199	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1515554092845	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515554092871	geckodriver	INFO	Listening on 127.0.0.1:50457
+1515554094932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.a4tvW6Wy27NC"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515554098467	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515554109488	Marionette	INFO	Listening on port 50469
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515554112277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515554112483	Marionette	DEBUG	Register listener.js for window 4294967297
+1515554113708	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515554115244	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515554115244	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515554117820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515554117916	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hah&json=1&p=3&sid=1462_19033_21086_18559_22157&req=2&csor=3&pwd=ha&cb=jQuery11020016876254881158514_1515554117543&_=1515554117547, line 1: TypeError: jQuery11020016876254881158514_1515554117543 is not a function
+1515554124611	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515554124628	geckodriver	INFO	Listening on 127.0.0.1:50550
+1515554126624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.FfD2beFGispR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515554133202	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 10404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515554140898	Marionette	INFO	Listening on port 50560
+1515554141228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515554141370	Marionette	DEBUG	Register listener.js for window 4294967297
+1515554141443	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515554141775	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515554141775	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515554142738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515554142941	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515554149181	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1515554149199	geckodriver	INFO	Listening on 127.0.0.1:50650
+1515554152797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lixia\\AppData\\Local\\Temp\\rust_mozprofile.NLMK19d15cuF"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1515554156655	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[Child 10280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515554163540	Marionette	INFO	Listening on port 50662
+1515554164122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515554164217	Marionette	DEBUG	Register listener.js for window 4294967297
+1515554165721	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515554165926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515554165927	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515554166450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1515554166552	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
