@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Demo/.idea/Demo.iml" filepath="$PROJECT_DIR$/../Demo/.idea/Demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../PycharmProjects/.idea/PycharmProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../interfaceTest/.idea/interfaceTest.iml" filepath="$PROJECT_DIR$/../interfaceTest/.idea/interfaceTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lixia_jiekou.iml" filepath="$PROJECT_DIR$/.idea/lixia_jiekou.iml" />
     </modules>
   </component>
